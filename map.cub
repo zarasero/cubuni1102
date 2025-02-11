@@ -1,0 +1,16 @@
+NO ./path_to_the_north_texture
+SO ./path
+WE ./path_to_the_west_texture
+EA ./pewafdk
+ fg
+
+F 0, 85, 10
+C 25, 45, 100
+
+
+1111111
+110111
+10E11
+1001
+1111 111
+
